@@ -45,6 +45,21 @@
       <excludeFolder url="file://$MODULE_DIR$/TheInventoryManagementApplication/vendor/symfony/var-exporter" />
       <excludeFolder url="file://$MODULE_DIR$/TheInventoryManagementApplication/vendor/symfony/yaml" />
       <excludeFolder url="file://$MODULE_DIR$/TheInventoryManagementApplication/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/TheInventoryManagementApplication/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/TheInventoryManagementApplication/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/TheInventoryManagementApplication/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/TheInventoryManagementApplication/vendor/doctrine/doctrine-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/TheInventoryManagementApplication/vendor/doctrine/doctrine-migrations-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/TheInventoryManagementApplication/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/TheInventoryManagementApplication/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/TheInventoryManagementApplication/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/TheInventoryManagementApplication/vendor/doctrine/migrations" />
+      <excludeFolder url="file://$MODULE_DIR$/TheInventoryManagementApplication/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/TheInventoryManagementApplication/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/TheInventoryManagementApplication/vendor/doctrine/sql-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/TheInventoryManagementApplication/vendor/symfony/doctrine-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/TheInventoryManagementApplication/vendor/symfony/polyfill-php86" />
+      <excludeFolder url="file://$MODULE_DIR$/TheInventoryManagementApplication/vendor/symfony/stopwatch" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

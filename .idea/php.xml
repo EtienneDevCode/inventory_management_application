@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="MessDetector">
+    <phpmd_settings>
+      <phpmd_by_interpreter asDefaultInterpreter="true" interpreter_id="3f1ad4e1-b396-45e5-a127-3b39115b6a33" timeout="30000" />
+    </phpmd_settings>
+  </component>
   <component name="MessDetectorOptionsConfiguration">
     <option name="transferred" value="true" />
   </component>
@@ -9,6 +14,11 @@
   <component name="PHPCodeSnifferOptionsConfiguration">
     <option name="highlightLevel" value="WARNING" />
     <option name="transferred" value="true" />
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <phpcs_by_interpreter asDefaultInterpreter="true" interpreter_id="3f1ad4e1-b396-45e5-a127-3b39115b6a33" timeout="30000" />
+    </phpcs_settings>
   </component>
   <component name="PhpIncludePathManager">
     <include_path>
@@ -53,10 +63,35 @@
       <path value="$PROJECT_DIR$/TheInventoryManagementApplication/vendor/symfony/string" />
       <path value="$PROJECT_DIR$/TheInventoryManagementApplication/vendor/symfony/twig-bridge" />
       <path value="$PROJECT_DIR$/TheInventoryManagementApplication/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/TheInventoryManagementApplication/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/TheInventoryManagementApplication/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/TheInventoryManagementApplication/vendor/symfony/polyfill-php86" />
+      <path value="$PROJECT_DIR$/TheInventoryManagementApplication/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/TheInventoryManagementApplication/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/TheInventoryManagementApplication/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/TheInventoryManagementApplication/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/TheInventoryManagementApplication/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/TheInventoryManagementApplication/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/TheInventoryManagementApplication/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/TheInventoryManagementApplication/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/TheInventoryManagementApplication/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/TheInventoryManagementApplication/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/TheInventoryManagementApplication/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/TheInventoryManagementApplication/vendor/doctrine/doctrine-migrations-bundle" />
     </include_path>
+  </component>
+  <component name="PhpStan">
+    <PhpStan_settings>
+      <phpstan_by_interpreter asDefaultInterpreter="true" interpreter_id="3f1ad4e1-b396-45e5-a127-3b39115b6a33" timeout="60000" />
+    </PhpStan_settings>
   </component>
   <component name="PhpStanOptionsConfiguration">
     <option name="transferred" value="true" />
+  </component>
+  <component name="Psalm">
+    <Psalm_settings>
+      <psalm_fixer_by_interpreter asDefaultInterpreter="true" interpreter_id="3f1ad4e1-b396-45e5-a127-3b39115b6a33" timeout="60000" />
+    </Psalm_settings>
   </component>
   <component name="PsalmOptionsConfiguration">
     <option name="transferred" value="true" />
